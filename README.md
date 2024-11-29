@@ -1,6 +1,6 @@
-# Linear Wave Simulation GUI
+# Linear Wave Kinematics Simulation GUI
 
-Linear Wave Simulation is a MATLAB-based graphical user interface (GUI) for simulating linear waves. The simulation allows users to input wave parameters (height, period, and depth), calculate the corresponding wavelength, and visualize the wave's motion over time. The GUI also includes a "Stop" button to halt the simulation. This tool is designed for researchers, students, and engineers interested in coastal and marine applications.
+Linear Wave Kinematics Simulation is a MATLAB-based graphical user interface (GUI) for simulating linear waves. The simulation allows users to input wave parameters (height, period, and depth), calculate the corresponding wavelength, and visualize the wave's motion over time. The GUI also includes a "Stop" button to halt the simulation. This tool is designed for researchers, students, and engineers interested in coastal and marine applications.
 
 ---
 
