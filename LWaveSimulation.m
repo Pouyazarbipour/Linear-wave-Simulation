@@ -1,4 +1,4 @@
-%% POUYA ZARBIPOUR LAKPOSHTEH EMAIL: pouyazarbipour@ail.com
+%% POUYA ZARBIPOUR LAKPOSHTEH EMAIL: pouyazarbipour@gmail.com
 classdef LWaveSimulation < handle
     properties
         fig % Main GUI figure
